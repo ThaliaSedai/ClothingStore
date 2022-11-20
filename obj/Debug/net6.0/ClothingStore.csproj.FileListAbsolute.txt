@@ -1,0 +1,15 @@
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\bin\Debug\net6.0\ClothingStore.exe
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\bin\Debug\net6.0\ClothingStore.deps.json
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\bin\Debug\net6.0\ClothingStore.runtimeconfig.json
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\bin\Debug\net6.0\ClothingStore.dll
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\bin\Debug\net6.0\ClothingStore.pdb
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.csproj.AssemblyReference.cache
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.AssemblyInfoInputs.cache
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.AssemblyInfo.cs
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.csproj.CoreCompileInputs.cache
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.dll
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\refint\ClothingStore.dll
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.pdb
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ClothingStore.genruntimeconfig.cache
+C:\Users\Anastasija\source\repos\ClothingStore\ClothingStore\obj\Debug\net6.0\ref\ClothingStore.dll
